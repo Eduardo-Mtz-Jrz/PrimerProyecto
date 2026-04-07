@@ -1,4 +1,4 @@
-# CH53 Primer Proyecto
+# Primer Proyecto
 ## Primer Proyecto de prueba
 ### Pasos para clonar un repositorio
 1. git clone [url]
